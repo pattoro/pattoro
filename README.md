@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on datascience related projects..
 - 📫 How to reach me .pat4christ212@gmail.com..
 - 😄 Pronouns: ...she
-- ⚡ Fun fact: ..big on family.
+- ⚡ Fun fact: ..big on family & data science enthusiast
 
 <!---
 pattoro/pattoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
