@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pattoro
 - 👀 I’m interested in datascience...
 - 🌱 I’m currently learning ..datascience.
-- 💞️ I’m looking to collaborate on .datascience related project..
+- 💞️ I’m looking to collaborate on datascience related projects..
 - 📫 How to reach me .pat4christ212@gmail.com..
 - 😄 Pronouns: ...she
 - ⚡ Fun fact: ..big on family.
